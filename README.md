@@ -5,7 +5,5 @@ Atool is a simple tool that automates the installation of various everyday deskt
 
 Execution : 
 
-cd atool 
-sudo bash setup.sh 
-sudo python3 atool.py 
+cd atool && sudo bash setup.sh  && sudo python3 atool.py 
 
